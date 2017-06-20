@@ -29,12 +29,12 @@ header {
 #item2 {
   text-align: right;
 }
-#advanced-selectors > ol > li {
+#advanced-selectors > ol > li p {
   padding: 5px;
   background-color: grey;
 }
 
-#advanced-selectors > ol > li:nth-child(odd) {
+#advanced-selectors > ol > li:nth-child(odd) p {
   background-color: green;
 }
 
